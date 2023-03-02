@@ -17,7 +17,8 @@ public class SurgerySystem {
         public void removeDoctor(Doctor doctor) {
         doctors.remove(doctor);
     }
-
+   public void addPatient(Patient patient) {
+        patients.add(patient);
  
     }
 
