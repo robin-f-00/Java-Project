@@ -11,4 +11,9 @@ public class SurgerySystem {
         patients = new ArrayList<>();
         appointments = new ArrayList<>();
     }
+    public void addDoctor(Doctor doctor) {
+        doctors.add(doctor);
+    }
+
+
 }
