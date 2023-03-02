@@ -25,4 +25,5 @@ public class SurgerySystem {
         patients.remove(patient);
     }
 
+    
 }
