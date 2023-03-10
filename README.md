@@ -7,5 +7,6 @@ Implement a system suitable for use in a doctors' surgery. The system should kee
 For this project we are using java language for programming purpose.   
 
 Time Estimated: 1 week at least
+(Edit: Estimated Time increased by 2 weeks)
 
 Time of Start Project: 27-02-2023 05:00 pm 
